@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/08a9f2ee83dc4545986dc145d3fbb919/artifacts
+end_time: 1687609180633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08a9f2ee83dc4545986dc145d3fbb919
+run_name: trusting-ray-633
+run_uuid: 08a9f2ee83dc4545986dc145d3fbb919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687609176632
+status: 3
+tags: []
+user_id: abc
